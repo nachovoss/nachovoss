@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Shadir's GitHub Banner](https://github.com/nachovoss/nachovoss/blob/main/header.png)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nachovoss&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
