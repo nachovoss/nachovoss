@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nachovoss)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nachovoss&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 <!--
