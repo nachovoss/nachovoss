@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Bares</h1>
-<h3 align="center">A senior Full Stack developer based in Spain</h3>
+<h3 align="center">Senior Full Stack developer based in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachovoss&label=Profile%20views&color=0e75b6&style=flat" alt="nachovoss" /> </p>
 
